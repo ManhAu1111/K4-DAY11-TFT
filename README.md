@@ -8,13 +8,16 @@
 
 ## Bảng Liên Kết Kho Chứa Cá Nhân
 
-Dưới đây là các liên kết trực tiếp tới bằng chứng nộp bài của từng thành viên:
+## Nhóm: TFT
+**Thành viên:** Âu Xuân Mạnh, Chu Đình Thắng, Vũ Tuấn Minh
+
+## Trạng thái nộp bài
 
 | Thành viên | Slice | File Manifest | Bản nhãn đã khóa | Nhận xét QA | Báo cáo Rework & Delta | Trả lời Exit Ticket |
 |---|---|---|---|---|---|---|
-| Âu Xuân Mạnh | B3-mid | [manifest.json](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh/blob/f286aec/submission/manifest.json) | [annotations.xml](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh/blob/f286aec/submission/r1_craft/annotations.xml) | [qa_review.md](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh/blob/f286aec/submission/r2_qa/qa_review.md) | [delta.md](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh/blob/f286aec/submission/rework/delta.md) | [50_exit_ticket.md](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh/blob/f286aec/submission/50_exit_ticket.md) |
-| Chu Đình Thắng | N/A | N/A | N/A | N/A | N/A | N/A |
-| Vũ Tuấn Minh | N/A | N/A | N/A | N/A | N/A | N/A |
+| Âu Xuân Mạnh | B3-mid | [manifest.json](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh-2A202602121/blob/c635420/submission/manifest.json) | [annotations.xml](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh-2A202602121/blob/c635420/submission/r1_craft/annotations.xml) | [qa_review.md](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh-2A202602121/blob/c635420/submission/r2_qa/qa_review.md) | [delta.md](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh-2A202602121/blob/c635420/submission/rework/delta.md) | [50_exit_ticket.md](https://github.com/ManhAu1111/K4-DAY11-AuXuanManh-2A202602121/blob/c635420/submission/50_exit_ticket.md) |
+| Chu Đình Thắng | B3-dense | [manifest.json](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228/blob/153b81c/submission/manifest.json) | [annotations.xml](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228/blob/153b81c/submission/r1_craft/annotations.xml) | [qa_review.md](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228/blob/153b81c/submission/r2_qa/qa_review.md) | [delta.md](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228/blob/153b81c/submission/rework/delta.md) | [50_exit_ticket.md](https://github.com/thangchudinh1/K4-DAY11-G03-T017-chudinhthang-0228/blob/153b81c/submission/50_exit_ticket.md) |
+| Vũ Tuấn Minh | B2-dense | [manifest.json](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240/blob/cf4acba/submission/manifest.json) | [annotations.xml](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240/blob/cf4acba/submission/r1_craft/annotations.xml) | [qa_review.md](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240/blob/cf4acba/submission/r2_qa/qa_review.md) | [delta.md](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240/blob/cf4acba/submission/rework/delta.md) | [50_exit_ticket.md](https://github.com/tuanminh1704/K4-DAY11-VuTuanMinh-2A202602240/blob/cf4acba/submission/50_exit_ticket.md) |
 
 ## Cách thức phân chia và làm việc
 - Nhóm sử dụng phương pháp Cross-Review linh hoạt.
